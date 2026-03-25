@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["NR5D2XPAM5.com.louispanis.cuadramos"],
+        "components": [
+          { "/": "/cuadramos-legal/join/*", "comment": "Group invite links" }
+        ]
+      }
+    ]
+  }
+}
